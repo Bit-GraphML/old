@@ -2,7 +2,7 @@ publishDir = "./docs"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
-baseURL = "//example.org"
+baseURL = "https://Bit-GraphML.github.io"
 relativeURLs = true
 uglyURLs = true
 theme = "hugo-academic-group"
