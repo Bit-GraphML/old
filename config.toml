@@ -1,4 +1,4 @@
-publishdir = "public"
+publishdir = "./public"
 static = "/static"
 builddrafts = false
 # Replace this with your website URL
