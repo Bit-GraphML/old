@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/</loc>
+    <loc>//example.org/</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/post/</loc>
+    <loc>//example.org/post.html</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/post/post2/</loc>
+    <loc>//example.org/post/post2.html</loc>
     <lastmod>2016-07-12T16:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/publication/learning/</loc>
+    <loc>//example.org/publication/learning.html</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/publication/</loc>
+    <loc>//example.org/publication.html</loc>
     <lastmod>2016-07-12T16:37:31+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/project/deeplearning/</loc>
+    <loc>//example.org/project/deeplearning.html</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/project/</loc>
+    <loc>//example.org/project.html</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/project/widelearning/</loc>
+    <loc>//example.org/project/widelearning.html</loc>
     <lastmod>2016-07-12T16:10:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/member/member1/</loc>
+    <loc>//example.org/member/member1.html</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/member/member2/</loc>
+    <loc>//example.org/member/member2.html</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/member/member3/</loc>
+    <loc>//example.org/member/member3.html</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/member/</loc>
+    <loc>//example.org/member.html</loc>
     <lastmod>2016-07-12T15:52:22+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/post/notebook/</loc>
+    <loc>//example.org/post/notebook.html</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/post/post1/</loc>
+    <loc>//example.org/post/post1.html</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/about/</loc>
+    <loc>//example.org/about.html</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/approach/</loc>
+    <loc>//example.org/approach.html</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/mission/</loc>
+    <loc>//example.org/mission.html</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/research/</loc>
+    <loc>//example.org/research.html</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/vacancy/vacancy1/</loc>
+    <loc>//example.org/vacancy/vacancy1.html</loc>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/categories/</loc>
+    <loc>//example.org/categories.html</loc>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/tags/</loc>
+    <loc>//example.org/tags.html</loc>
   </url><url>
-    <loc>https://github.com/Bit-GraphML/Bit-GraphML.github.io/tree/main/docs/vacancy/</loc>
+    <loc>//example.org/vacancy.html</loc>
   </url>
 </urlset>
