@@ -1,4 +1,4 @@
-#  extemplo conantur et Cnosia harundine lyra
+#   Cnosia harundine lyra
 
 ## Agros metitur venatibus catenis quippe honorem tuorum
 
