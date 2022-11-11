@@ -3,8 +3,8 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "member1"
 interests = ["Deep Learning", "Pattern Recognition", "Computer Science"]
-name = "Member Member"
-portrait = "/portraits/portrait.jpg"
+name = "李荣华"
+portrait = "/portraits/lironghua.jpg"
 short_bio = "My short bio. I am Member Member."
 short_name = ""
 title = "Member 1"
@@ -35,8 +35,8 @@ title = "Member 1"
     year = 2004
 
 [[organizations]]
-    name = "Harvard University"
-    role = "Full Professor"
+    name = "北京理工大学"
+    role = "教授"
 
 +++
 You can write $\LaTeX$ and *Markdown* here.

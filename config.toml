@@ -6,9 +6,9 @@ baseURL = "https://Bit-GraphML.github.io"
 relativeURLs = true
 uglyURLs = true
 theme = "hugo-academic-group"
-title = "Academic group name"
+title = "北京理工大学图数据科学实验室"
 math = true
-copyright = "&copy; Your Name, 2016 "
+copyright = "&copy; 李洵楷、杨世宇, 2022 "
 
 [taxonomies]
 category = "categories"
@@ -17,32 +17,32 @@ tag = "tags"
 
 [params]
   description = "Website of research group"
-  author = "Your name"
-  email = "mail@example.org"
-  address = "3566 Spirit Drive NEW HAVEN Connecticut"
+  author = "李荣华"
+  email = "lironghuabit@126.com"
+  address = "北京市海淀区中关村南大街5号中心教学楼1233"
 
-  slogan = "ACADEMIC GROUP"
-  slogan_text = "Modern Artificial Intelligence research"
+  slogan = "图数据科学实验室"
+  slogan_text = "图算法研究"
 
   [[params.slogan_columns]]
-    title = "About"
-    text =  "Lorem markdownum potest utinam stabat nostris circinat sui intus eminus sanguis: narres gratata hastae dissimulant erat Trinacris! Et caput mandata gravitate atque, caeloque Oleniae austrum! Haemonio ex neque in suas iste, quem hastam alis conquerar altae, arce tutaeque est sincera [fores](http://illo.com/). Et *Aetnaea in spectat* mutarent. Prospexit longaeque adest fatidicamque dicemur habet, nec cognitus me Trachinia sperat."
+    title = "研究方向"
+    text =  "图数据管理与挖掘、图计算系统、图神经网络、图表示学习、知识图谱、图论算法的设计与分析、谱图理论、图数据隐私保护、图联邦学习等。"
     link = "/about"
     link_text = "Meet the team"
     weight = 1
   
   [[params.slogan_columns]]
-    title = "Mission"
-    text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+    title = "招聘信息"  
+    text = "长期招收博士后科研人员。主要工作包括：(a)力争做出高水平科研成果; (b)协助指导课题组学生。\n 每年招收博士生1人、硕士生4人（有较强的数学功底或者有ACM程序设计竞赛经历的同学将被优先考虑）。\n长期招聘本科实习生，进入课题组的本科生将由我和我的博士生共同指导。\n  欢迎有意加入本课题组的人员发邮件咨询： lironghuabit@126.com"
     link = "/mission"
     link_text = "Read more"
     weight = 2
 
   [[params.slogan_columns]]
-    title = "Approach"
-    text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+    title = "正在指导的学生"
+    text = "博士后：秦宏超 博士生：张琦(2018级)代强强(2019级)，廖美昊(2020级)，李泽宁(2021级)，李洵楷(2022级) 硕士生：任泽槟(2019级)，高森(2019级)，徐兰天(2019级)，潘敏佳(2019级)，陈久健(2020级)，陈子健(2020级)，程苗苗(2020级)，龙水彬(2020级)，蒋佳祺(2021级)，叶小伟(2021级)，曾越(2021级)，马泽航(2021级)，胡仲则(2021级)"
     link = "/approach"
-    link_text = "Read more"
+    link_text = "师生合影"
     weight = 3
 
   # Selected Publications section.
@@ -88,7 +88,7 @@ tag = "tags"
   # Contact section.
   [params.contact]
     enable = true
-    title = "Contact"
+    title = "联系方式"
     subtitle = ""
     autolink = false  # Automatically link email and phone?
 
